@@ -1,0 +1,27 @@
+[
+  {
+    "_id": "ad06112d65ba2df086006bfc",
+    "name": "Lena Kowalski",
+    "email": "lena.kowalski@example.com"
+  },
+  {
+    "_id": "519c78173359f20659d24acc",
+    "name": "Jasper Nguyen",
+    "email": "jasper.nguyen@example.com"
+  },
+  {
+    "_id": "e0ef70757d9830a29a02745a",
+    "name": "Amina Farouk",
+    "email": "amina.farouk@example.com"
+  },
+  {
+    "_id": "dc53db5df8779ccf48a5eec9",
+    "name": "Carlos Dominguez",
+    "email": "carlos.dominguez@example.com"
+  },
+  {
+    "_id": "8e95bf4afb4bd19b2f293b15",
+    "name": "Mei Tanaka",
+    "email": "mei.tanaka@example.com"
+  }
+]

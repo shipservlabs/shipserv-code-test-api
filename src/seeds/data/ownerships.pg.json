@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "startDate": "2023-07-18T16:16:50.716570",
+    "endDate": null,
+    "ownerId": 2,
+    "carId": 6
+  },
+  {
+    "id": 2,
+    "startDate": "2024-04-26T16:16:50.716586",
+    "endDate": "2026-02-18T16:16:50.716586",
+    "ownerId": 5,
+    "carId": 1
+  },
+  {
+    "id": 3,
+    "startDate": "2023-10-01T16:16:50.716602",
+    "endDate": "2024-09-27T16:16:50.716602",
+    "ownerId": 1,
+    "carId": 10
+  },
+  {
+    "id": 4,
+    "startDate": "2025-02-07T16:16:50.716617",
+    "endDate": null,
+    "ownerId": 5,
+    "carId": 9
+  },
+  {
+    "id": 5,
+    "startDate": "2024-12-12T16:16:50.716625",
+    "endDate": "2026-10-06T16:16:50.716625",
+    "ownerId": 3,
+    "carId": 8
+  },
+  {
+    "id": 6,
+    "startDate": "2024-08-22T16:16:50.716634",
+    "endDate": "2025-08-04T16:16:50.716634",
+    "ownerId": 2,
+    "carId": 2
+  },
+  {
+    "id": 7,
+    "startDate": "2023-03-02T16:16:50.716644",
+    "endDate": "2024-02-20T16:16:50.716644",
+    "ownerId": 5,
+    "carId": 10
+  },
+  {
+    "id": 8,
+    "startDate": "2023-06-06T16:16:50.716653",
+    "endDate": "2023-07-11T16:16:50.716653",
+    "ownerId": 5,
+    "carId": 15
+  },
+  {
+    "id": 9,
+    "startDate": "2025-02-03T16:16:50.716663",
+    "endDate": null,
+    "ownerId": 5,
+    "carId": 13
+  },
+  {
+    "id": 10,
+    "startDate": "2024-07-09T16:16:50.716675",
+    "endDate": null,
+    "ownerId": 1,
+    "carId": 12
+  },
+  {
+    "id": 11,
+    "startDate": "2024-10-12T16:16:50.716690",
+    "endDate": "2025-06-17T16:16:50.716690",
+    "ownerId": 1,
+    "carId": 13
+  },
+  {
+    "id": 12,
+    "startDate": "2023-05-01T16:16:50.716709",
+    "endDate": null,
+    "ownerId": 1,
+    "carId": 6
+  },
+  {
+    "id": 13,
+    "startDate": "2021-05-17T16:16:50.716730",
+    "endDate": "2022-07-07T16:16:50.716730",
+    "ownerId": 1,
+    "carId": 2
+  },
+  {
+    "id": 14,
+    "startDate": "2021-10-14T16:16:50.716746",
+    "endDate": null,
+    "ownerId": 3,
+    "carId": 6
+  },
+  {
+    "id": 15,
+    "startDate": "2022-06-30T16:16:50.716766",
+    "endDate": "2023-04-11T16:16:50.716766",
+    "ownerId": 5,
+    "carId": 3
+  },
+  {
+    "id": 16,
+    "startDate": "2022-11-04T16:16:50.716785",
+    "endDate": null,
+    "ownerId": 3,
+    "carId": 9
+  },
+  {
+    "id": 17,
+    "startDate": "2024-10-05T16:16:50.716793",
+    "endDate": "2025-05-08T16:16:50.716793",
+    "ownerId": 4,
+    "carId": 8
+  },
+  {
+    "id": 18,
+    "startDate": "2021-11-06T16:16:50.716813",
+    "endDate": "2023-01-04T16:16:50.716813",
+    "ownerId": 5,
+    "carId": 6
+  },
+  {
+    "id": 19,
+    "startDate": "2021-08-28T16:16:50.716833",
+    "endDate": null,
+    "ownerId": 5,
+    "carId": 12
+  },
+  {
+    "id": 20,
+    "startDate": "2023-09-11T16:16:50.716842",
+    "endDate": null,
+    "ownerId": 2,
+    "carId": 7
+  },
+  {
+    "id": 21,
+    "startDate": "2023-09-23T16:16:50.716849",
+    "endDate": null,
+    "ownerId": 1,
+    "carId": 5
+  },
+  {
+    "id": 22,
+    "startDate": "2023-06-14T16:16:50.716857",
+    "endDate": null,
+    "ownerId": 1,
+    "carId": 7
+  },
+  {
+    "id": 23,
+    "startDate": "2022-10-31T16:16:50.716870",
+    "endDate": null,
+    "ownerId": 3,
+    "carId": 14
+  },
+  {
+    "id": 24,
+    "startDate": "2024-02-23T16:16:50.716883",
+    "endDate": null,
+    "ownerId": 3,
+    "carId": 1
+  },
+  {
+    "id": 25,
+    "startDate": "2024-08-23T16:16:50.716892",
+    "endDate": "2026-04-12T16:16:50.716892",
+    "ownerId": 3,
+    "carId": 2
+  }
+]

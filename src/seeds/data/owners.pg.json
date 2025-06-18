@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Lena Kowalski",
+    "email": "lena.kowalski@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Jasper Nguyen",
+    "email": "jasper.nguyen@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Amina Farouk",
+    "email": "amina.farouk@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Dominguez",
+    "email": "carlos.dominguez@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Mei Tanaka",
+    "email": "mei.tanaka@example.com"
+  }
+]

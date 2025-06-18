@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "manufacturer": "TOYOTA",
+    "type": "ELECTRIC"
+  },
+  {
+    "id": 2,
+    "manufacturer": "FORD",
+    "type": "TRUCK"
+  },
+  {
+    "id": 3,
+    "manufacturer": "CHEVROLET",
+    "type": "TRUCK"
+  },
+  {
+    "id": 4,
+    "manufacturer": "CHEVROLET",
+    "type": "ELECTRIC"
+  },
+  {
+    "id": 5,
+    "manufacturer": "BMW",
+    "type": "VAN"
+  },
+  {
+    "id": 6,
+    "manufacturer": "MERCEDES_BENZ",
+    "type": "TRUCK"
+  },
+  {
+    "id": 7,
+    "manufacturer": "FORD",
+    "type": "SUV"
+  },
+  {
+    "id": 8,
+    "manufacturer": "CHEVROLET",
+    "type": "TRUCK"
+  },
+  {
+    "id": 9,
+    "manufacturer": "CHEVROLET",
+    "type": "VAN"
+  },
+  {
+    "id": 10,
+    "manufacturer": "BMW",
+    "type": "SUV"
+  },
+  {
+    "id": 11,
+    "manufacturer": "TOYOTA",
+    "type": "SEDAN"
+  },
+  {
+    "id": 12,
+    "manufacturer": "FORD",
+    "type": "SPORTS_CAR"
+  },
+  {
+    "id": 13,
+    "manufacturer": "MERCEDES_BENZ",
+    "type": "TRUCK"
+  },
+  {
+    "id": 14,
+    "manufacturer": "FORD",
+    "type": "VAN"
+  },
+  {
+    "id": 15,
+    "manufacturer": "BMW",
+    "type": "VAN"
+  }
+]

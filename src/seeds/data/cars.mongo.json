@@ -1,0 +1,77 @@
+[
+  {
+    "_id": "afb3aeb0447d7057a232050d",
+    "manufacturer": "TOYOTA",
+    "type": "ELECTRIC"
+  },
+  {
+    "_id": "7b983abbef1636fe39a86397",
+    "manufacturer": "FORD",
+    "type": "TRUCK"
+  },
+  {
+    "_id": "374ffd56cf092a23e6832e77",
+    "manufacturer": "CHEVROLET",
+    "type": "TRUCK"
+  },
+  {
+    "_id": "f921e5de7747f4801db089f3",
+    "manufacturer": "CHEVROLET",
+    "type": "ELECTRIC"
+  },
+  {
+    "_id": "853db0eecfb11ce5d95ac683",
+    "manufacturer": "BMW",
+    "type": "VAN"
+  },
+  {
+    "_id": "2fb8533717b841c261bb316d",
+    "manufacturer": "MERCEDES_BENZ",
+    "type": "TRUCK"
+  },
+  {
+    "_id": "265c2526aa1fb8bc91c335e5",
+    "manufacturer": "FORD",
+    "type": "SUV"
+  },
+  {
+    "_id": "1278cf5fdb63fd590d1a9153",
+    "manufacturer": "CHEVROLET",
+    "type": "TRUCK"
+  },
+  {
+    "_id": "ee9eb04a80a3162888c443c4",
+    "manufacturer": "CHEVROLET",
+    "type": "VAN"
+  },
+  {
+    "_id": "664efcf31659ffaa015a911f",
+    "manufacturer": "BMW",
+    "type": "SUV"
+  },
+  {
+    "_id": "0d5de75a7a7db95435bdf7e7",
+    "manufacturer": "TOYOTA",
+    "type": "SEDAN"
+  },
+  {
+    "_id": "5c7c9dc1c391ab03325270d0",
+    "manufacturer": "FORD",
+    "type": "SPORTS_CAR"
+  },
+  {
+    "_id": "0de994c53b96cba01a97447c",
+    "manufacturer": "MERCEDES_BENZ",
+    "type": "TRUCK"
+  },
+  {
+    "_id": "6e476c1725fae7ea3ff6279f",
+    "manufacturer": "FORD",
+    "type": "VAN"
+  },
+  {
+    "_id": "dbdf6aa5a471e3f0aebed0e8",
+    "manufacturer": "BMW",
+    "type": "VAN"
+  }
+]

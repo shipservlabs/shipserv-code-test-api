@@ -41,7 +41,7 @@ class PostgresSeeder {
     await this.db.schema.createTable('owners', (table) => {
       table.increments('id').primary();
       table.string('name').notNullable();
-      table.string('email').unique().notNullable();
+      table.string('email').notNullable();
       table.timestamps(true, true);
     });
 
